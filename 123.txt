@@ -1,7 +1,7 @@
 import string
 import itertools
 
-passwordReal = "6537"  # пароль, который нужно подобрать
+passwordReal = "3333"  # пароль, который нужно подобрать
 
 # Множество символов, которые будем использовать для подбора (цифры, буквы, знаки пунктуации)
 guessPasswordSet = string.digits + string.ascii_letters + string.punctuation
